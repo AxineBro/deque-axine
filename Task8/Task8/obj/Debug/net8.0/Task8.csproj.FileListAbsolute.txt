@@ -1,0 +1,14 @@
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.AssemblyInfoInputs.cache
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.AssemblyInfo.cs
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.csproj.CoreCompileInputs.cache
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\bin\Debug\net8.0\Task8.exe
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\bin\Debug\net8.0\Task8.deps.json
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\bin\Debug\net8.0\Task8.runtimeconfig.json
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\bin\Debug\net8.0\Task8.dll
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\bin\Debug\net8.0\Task8.pdb
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.dll
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\refint\Task8.dll
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.pdb
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\Task8.genruntimeconfig.cache
+Z:\Архив\3 семестр\Методы программирования\Задания\Task8\Task8\Task8\obj\Debug\net8.0\ref\Task8.dll
